@@ -34,6 +34,9 @@ Ensuite pour toutes les autres fois :
 
 ## Documentation complémentaire 
 
+Slides de la présentation aux Humans Talks : 
+https://canva.link/4bsxh5psdldrm70
+
 Doc Percy : 
 https://www.browserstack.com/docs/percy
 
